@@ -34,4 +34,4 @@ yarn-error.log*
 .vercel
 
 #URI
-/pages/api/contact.js
+/pages/api/
